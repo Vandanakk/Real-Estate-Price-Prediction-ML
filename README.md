@@ -34,3 +34,4 @@ This project predicts housing prices using Machine Learning models such as Linea
 * Regression modeling
 * Feature engineering
 * Model evaluation
+
